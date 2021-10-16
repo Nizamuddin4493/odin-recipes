@@ -1,3 +1,67 @@
-h1{
-    color: red;
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    border: 1px solid red;
+    height: 50px;
+    display: flex;
+}
+.nav-icon{
+    /*border: 1px solid green;*/
+    width: 25px;
+    margin: 17px 0 0 15px;
+    size: 40px;
+}
+.ytub-img {
+    width: 100px;
+    margin: 12px 0 0 15px;
+    size: 40px;
+}
+.inputf{
+    width: 690px;
+    margin-top: 6px;
+    margin-left: 150px;
+    display: flex;
+}
+.inputf input{
+    width: 590px;
+    height: 38px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+.search-icon{
+    width: 70px;
+    height: 36px;
+    background-color: #F8F8F8;
+    border: 1px solid #ccc;
+    border-left: none;
+}
+.voice{
+    margin-left: 5px;
+}
+.user-contents{
+    display: flex;
+    margin-left: 180px;
+}
+.camera{
+    margin-top: 15px;
+}
+.apps{
+    margin-top: 14px;
+    margin-left: 25px;
+}
+.notification{
+    margin-top: 13px;
+    margin-left: 25px;
+}
+.user{
+    margin-top: 7px;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+/* header section ended here. */
+.continer{
+    
 }
