@@ -67,7 +67,7 @@ body{
 .continer{
     margin: auto;
     padding: auto;
-    max-width: 1200px;
+    max-width: 1230px;
     margin-top: 20px;
     border: 1px solid blue;
     display: flex;
@@ -81,6 +81,7 @@ body{
     width: 450px;
     border: 1px solid rgb(123, 226, 123);
     height: 900px;
+    margin-left: 25px;
 }
 .more-videos{
     width: 450px;
@@ -106,4 +107,30 @@ body{
     height: 35px;
     margin-top: 2px;
     margin-left: 5px;
+}
+.smal-vids{
+    display: flex;
+    width: 450px;
+    height: 120px;
+    margin-top: 10px;
+}
+.vids{
+    width: 190px;
+    height: 115px;
+    margin-left: 8px;
+}
+.title{
+    width: 250px;
+    height: 115px;
+    margin-left: 8px;
+}
+.heading{
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.author{
+    font-size: 16px;
+    color: rgb(117, 117, 117);
 }
